@@ -1,2 +1,2 @@
 # weatherNotifier
-Please see README.pdf
+Please see README.pdf. Thank you! :)
